@@ -1,3 +1,40 @@
+# DELIVERABLE REPOSITORIES
+
+Link to Front End repo: https://github.com/ElDav1d/the-phone-cave-client
+
+Link to Back End repo: https://github.com/ElDav1d/the-phone-cave-server
+
+# INSTRUCTIONS
+
+## BACKEND
+
+- Install dependencies:
+
+`npm i` or `yarn add`
+
+- Run DB seeding file (./seeds/phones.seed.js)
+
+- Run development mode
+
+`npm run dev` or `yarn dev`
+
+## FRONTEND
+
+- Install dependencies:
+
+`npm i` or `yarn add`
+
+- Add secrets
+
+`REACT_APP_SERVER_URL=http://localhost:5005/api`
+
+- Run development mode
+
+`npm start` or `yarn start`
+
+- Browse to http://localhost:3000
+
+
 # The Phone Cave (WD)
 
   At The Phone Cave we are looking for someone to help us turn our cave store into a home, and to do so we present you this challenge.
